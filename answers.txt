@@ -1,0 +1,6 @@
+Q1: Why might we consider using Git? 
+
+Answer: Git is an extremely useful version control software that allows multiple developers to work on the same project
+simultaneously. It allows us to try new things with our code without being scared of it breaking (a very real fear). 
+It's also the industry standard. Git is used in every SWE job, and even used in non-SWE roles fairly often. 
+Getting familiar with Git as much as we can while we're students is going to be advantageous to us in the workforce.  
